@@ -9,4 +9,4 @@ It was designed using an Arduino Uno R3, ultrasonic sensors, an L293D motor driv
 - An L293D motor driver allows for the control of two motors simultaneously and motor reversal
 - The IR remote and sensor provide the ability for the vehicle to be controlled manually
 
-Check out a simulation video here: https://drive.google.com/file/d/1z7_zx5e83Itk2ChFq-JeVKa5GBxamuNX/view
+Check out a simulation video here: https://sakshamahuja.me/projects/unobot-1-0
